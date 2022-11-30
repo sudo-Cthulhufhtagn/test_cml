@@ -1,5 +1,7 @@
 # CML basic use case
 
+Repo should be not empty?
+
 This repository contains a sample project using [CML](https://github.com/iterative/cml). When a pull request is made in this repository, the following will occur:
 - GitHub will deploy a runner machine with a specified CML Docker environment
 - The runner will execute a workflow to train a ML model (`python train.py`)
